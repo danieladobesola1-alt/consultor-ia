@@ -1,0 +1,26 @@
+{
+    "codigo_proyecto": "PC-2026-006",
+    "nombre_proyecto": "Optimización del proceso de reposición de inventario en tiendas",
+    "empresa": "Supermercados La Canasta Cía. Ltda.",
+    "sector": "Retail – supermercados",
+    "objetivo_general": "No especificado en el informe",
+    "problema_identificado": "La Canasta registraba altos niveles de productos agotados en percha en sus categorías de mayor venta, al mismo tiempo que mantenía inventario excesivo en bodegas de tienda. La reposición dependía del criterio de cada administrador y las órdenes a proveedores se generaban manualmente en hojas de cálculo.",
+    "resultados_principales": [
+        "El quiebre de stock en productos de categoría A bajó de 9,5% a 4,8%",
+        "La merma de perecibles se redujo en 0,7 puntos porcentuales",
+        "Los días de inventario en tienda se redujeron a 31 días",
+        "La precisión de inventario en sistema aumentó al 93%"
+    ],
+    "indicadores": [
+        "Quiebre de stock, categoría A: Línea base 9,5%, Meta ≤ 5%, Resultado 4,8%",
+        "Días de inventario en tienda: Línea base 38 días, Meta ≤ 30 días, Resultado 31 días",
+        "Integración de órdenes con proveedores: Línea base 0 de 3, Meta 3 de 3, Resultado 0 de 3",
+        "Merma de perecibles: Línea base 4,1%, Meta reducción ≥ 0,5 pp, Resultado 3,4%",
+        "Precisión de inventario en sistema: Línea base 78%, Sin meta, Resultado 93%"
+    ],
+    "objetivos_pendientes": [
+        "Integrar automáticamente las órdenes de compra con los tres principales proveedores, trasladado a una segunda fase"
+    ],
+    "conclusiones": "El proyecto logró cumplir con la reducción del quiebre de stock en categoría A, la reducción de la merma de perecibles y mejoró la precisión del inventario al 93%. Los días de inventario se redujeron a 31 días quedando parcialmente cumplidos, y el objetivo de integración de órdenes con proveedores quedó pendiente y fue trasladado a una segunda fase debido a limitaciones técnicas del ERP del cliente y de los proveedores.",
+    "fuente": "INFORME_DE_CIERRE_DE_PROYECTO_PC-2026-006"
+}

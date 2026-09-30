@@ -1,0 +1,30 @@
+{
+    "codigo_proyecto": "PC-2025-033",
+    "nombre_proyecto": "Reducción de tiempos de admisión y espera en consulta externa",
+    "empresa": "Clínica Santa Lucía del Valle",
+    "sector": "Salud – clínicas y hospitales privados",
+    "objetivo_general": "Reducir los tiempos de admisión y espera en consulta externa mediante el rediseño del agendamiento, la implementación de la pre-admisión digital y la reorganización de las ventanillas de admisión.",
+    "problema_identificado": "La Clínica Santa Lucía del Valle recibía un número creciente de quejas por tiempos de espera en consulta externa, que se habían convertido en el principal motivo de insatisfacción en sus encuestas. El proceso de admisión era el principal cuello de botella.",
+    "resultados_principales": [
+        "Reducción del tiempo total de espera del paciente en un 24%, pasando de una línea base de 52 minutos a 39,5 minutos.",
+        "Reducción del tiempo de admisión en ventanilla en un 57%, pasando de una línea base de 14 minutos a 6 minutos.",
+        "Alcanzar un 41% de pacientes con pre-admisión digital, superando la meta del 30%.",
+        "Reducción del ausentismo de citas a un 15% (variación de -7 pp respecto al 22% de la línea base).",
+        "Duplicación de la satisfacción del paciente medida mediante NPS, pasando de 18 a 37 (+19 puntos)."
+    ],
+    "indicadores": [
+        "Tiempo total de espera del paciente: Línea base 52 min, Meta reducción ≥ 20%, Resultado 39,5 min, Variación -24%",
+        "Tiempo de admisión en ventanilla: Línea base 14 min, Meta < 8 min, Resultado 6 min, Variación -57%",
+        "Pacientes con pre-admisión digital: Línea base 0%, Meta ≥ 30%, Resultado 41%, Variación +41 pp",
+        "Ausentismo de citas: Línea base 22%, Meta < 18%, Resultado 15%, Variación -7 pp",
+        "Satisfacción del paciente (NPS): Línea base 18, Meta sin meta, Resultado 37, Variación +19 puntos"
+    ],
+    "objetivos_pendientes": [
+        "Implementar el registro automático de marcas de tiempo en el sistema hospitalario para medir la espera de forma continua.",
+        "Evaluar la ampliación de horarios o consultorios en traumatología y dermatología.",
+        "Extender el modelo de pre-admisión a imagenología y laboratorio.",
+        "Establecer una meta de pre-admisión digital de 60% para el cierre de 2026."
+    ],
+    "conclusiones": "Se cumplieron los cuatro objetivos del proyecto. El tiempo de espera muestra mayor variabilidad en traumatología y dermatología, donde la demanda supera la capacidad de consultorios en horario de la mañana.",
+    "fuente": "INFORME DE CIERRE DE PROYECTO"
+}

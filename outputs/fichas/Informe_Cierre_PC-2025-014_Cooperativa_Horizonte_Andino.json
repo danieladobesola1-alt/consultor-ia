@@ -1,0 +1,27 @@
+{
+    "codigo_proyecto": "PC-2025-014",
+    "nombre_proyecto": "Optimización del proceso de aprobación de créditos de consumo y microcrédito",
+    "empresa": "Cooperativa de Ahorro y Crédito Horizonte Andino Ltda.",
+    "sector": "Servicios financieros – cooperativas de ahorro y crédito",
+    "objetivo_general": "Rediseñar el flujo completo de originación, desde la recepción de la solicitud en agencia hasta el desembolso, eliminando validaciones duplicadas, automatizando la consulta al buró de crédito y estableciendo un esquema de aprobación por niveles de riesgo.",
+    "problema_identificado": "Horizonte Andino enfrentaba tiempos de aprobación de crédito muy superiores a los de su competencia directa, pérdida de socios hacia bancos y fintechs con respuesta en 48 horas, una solicitud pasaba por 9 manos distintas, la información del socio se digitaba tres veces en sistemas diferentes y el 34% de las solicitudes regresaba a la agencia por documentación incompleta.",
+    "resultados_principales": [
+        "El tiempo promedio de aprobación bajó de 12 a 5 días hábiles.",
+        "La productividad de los analistas de crédito aumentó 46%.",
+        "Se cumplieron cuatro de los cinco indicadores meta.",
+        "La tasa de abandono de solicitudes mejoró de forma importante pero quedó un punto porcentual por encima de la meta.",
+        "El cliente reportó un aumento de 9% en el monto colocado en consumo y microcrédito entre el primer y segundo trimestre de 2025."
+    ],
+    "indicadores": [
+        "Tiempo promedio de aprobación: 5 días hábiles",
+        "Solicitudes con reproceso: 12%",
+        "Productividad de analistas: 124 solicitudes/analista/mes",
+        "Satisfacción de socios: 4,1",
+        "Tasa de abandono de solicitudes: 11%"
+    ],
+    "objetivos_pendientes": [
+        "Alcanzar la meta de la tasa de abandono de solicitudes al 10% (quedó en 11%)."
+    ],
+    "conclusiones": "El proyecto logró optimizar el proceso de aprobación de créditos de consumo y microcrédito, cumpliendo cuatro de los cinco indicadores meta establecidos y logrando una mejora significativa en los tiempos, productividad y satisfacción del socio, a pesar de que la tasa de abandono de solicitudes quedó un punto por encima de la meta.",
+    "fuente": "INFORME DE CIERRE DE PROYECTO"
+}

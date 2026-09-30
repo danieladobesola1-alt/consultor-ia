@@ -1,0 +1,205 @@
+PROCESA CONSULTORES
+| PC-2025-027 · Plásticos del Pacífico  ·  Documento de uso interno
+Página 1
+INFORME DE CIERRE DE PROYECTO
+Mejora de la Efectividad Global de los
+Equipos (OEE) en la planta de Durán
+Plásticos del Pacífico S.A.
+Código de proyecto
+PC-2025-027
+Cliente
+Plásticos del Pacífico S.A., fabricante de envases y tapas plásticas
+para la industria de alimentos y bebidas
+Sector
+Manufactura – plásticos y envases
+Ubicación
+Planta industrial de Durán, provincia del Guayas
+Periodo de ejecución
+7 de julio de 2025 al 12 de diciembre de 2025 (23 semanas)
+Gerente de proyecto
+Ing. Martín Aguirre
+Equipo consultor
+1 gerente, 1 consultor senior en TPM, 2 consultores, 1 analista de
+datos
+Contraparte del cliente
+Gerencia de Planta y Jefatura de Mantenimiento
+Estado
+Cerrado – aceptado por el cliente el 19 de diciembre de 2025
+1. Resumen ejecutivo
+Plásticos del Pacífico necesitaba aumentar su capacidad productiva para atender contratos nuevos con
+dos embotelladoras sin invertir en una máquina adicional. El proyecto se enfocó en recuperar
+capacidad oculta en la Línea 1 de inyección, que concentra el 60% del volumen de la planta y
+presentaba el OEE más bajo.
+Mediante la aplicación de Mantenimiento Productivo Total (TPM), reducción de tiempos de cambio de
+formato (SMED) y un sistema de gestión diaria de paradas, el OEE de la Línea 1 pasó de 58% a 71%.
+Esta mejora equivale a una capacidad adicional aproximada de 1,9 millones de tapas al mes, suficiente
+para cubrir los nuevos contratos sin inversión en equipos.
+2. Contexto
+La planta de Durán opera en tres turnos, seis días a la semana, con dos líneas productivas: la Línea 1,
+de inyección de tapas, compuesta por 6 inyectoras; y la Línea 2, de soplado de preformas y botellas,
+compuesta por 3 sopladoras. En 2024 la planta rechazó pedidos por falta de capacidad en al menos
+cuatro ocasiones, mientras que los registros mostraban largos periodos de máquinas detenidas.
+PROCESA CONSULTORES
+| PC-2025-027 · Plásticos del Pacífico  ·  Documento de uso interno
+Página 2
+El diagnóstico inicial, realizado durante las primeras cuatro semanas, identificó que las pérdidas de la
+Línea 1 se concentraban en tres causas: cambios de formato largos y poco estandarizados, paradas no
+programadas por fallas mecánicas recurrentes y microparadas por atascos en la alimentación de
+material. Además, el registro de paradas era manual, incompleto y se llenaba al final del turno, lo que
+impedía conocer las causas reales.
+3. Objetivos
+• Incrementar el OEE de la Línea 1 de inyección de 58% a al menos 70%.
+• Reducir el tiempo promedio de cambio de formato en al menos 50%.
+• Reducir las horas mensuales de paradas no programadas en al menos 40%.
+• Implementar un sistema de registro y gestión diaria de paradas sostenible por el equipo de planta.
+4. Alcance
+El alcance del proyecto se limitó a la Línea 1 de inyección. La Línea 2 de soplado quedó
+expresamente fuera del alcance, debido a que el cliente tiene previsto reemplazar dos de sus tres
+sopladoras durante el primer semestre de 2026 y no resultaba conveniente intervenir equipos que
+serán retirados. Por esta razón, ninguna de las cifras de resultados de este informe corresponde a la
+Línea 2 ni a la planta en su conjunto.
+Como referencia, según los registros del propio cliente, el OEE de la Línea 2 se mantuvo alrededor de
+63% durante el periodo del proyecto, sin intervención del equipo consultor. Procesa Consultores no
+validó la metodología de cálculo de esa cifra.
+También quedaron fuera del alcance la gestión de inventarios de materia prima y la programación de la
+producción, aunque se dejaron recomendaciones sobre ambos temas en la sección 9.
+5. Metodología
+El proyecto se desarrolló en cuatro fases:
+Fase
+Semanas
+Actividades principales
+1. Diagnóstico
+1 a 4
+Medición de línea base de OEE con registro en piso durante tres semanas,
+análisis de Pareto de paradas, estudio de tiempos de cambio de formato.
+2. Diseño
+5 a 8
+Diseño de estándares SMED, plan de mantenimiento autónomo y
+preventivo, diseño del tablero de gestión diaria.
+3. Implementación
+9 a 19
+Talleres SMED por molde, limpieza e inspección inicial de las 6 inyectoras,
+capacitación a operadores y técnicos, arranque de reuniones diarias de 15
+minutos.
+4. Estabilización
+20 a 23
+Seguimiento de indicadores, ajustes de estándares y transferencia del
+sistema al equipo de planta.
+6. Iniciativas implementadas
+6.1 Reducción de tiempos de cambio de formato (SMED)
+Se filmaron y analizaron 18 cambios de formato. El 55% de las actividades se realizaba con la máquina
+detenida pese a que podía hacerse antes, como el precalentamiento de moldes y la preparación de
+herramientas. Se estandarizaron carros de cambio por molde, se implementaron conexiones rápidas de
+agua de enfriamiento y se definió una secuencia estándar con tiempos objetivo por actividad.
+PROCESA CONSULTORES
+| PC-2025-027 · Plásticos del Pacífico  ·  Documento de uso interno
+Página 3
+6.2 Mantenimiento autónomo y preventivo
+Se realizó una jornada de limpieza e inspección inicial en cada inyectora, que permitió detectar 214
+anomalías, de las cuales 187 fueron corregidas antes del cierre. Los operadores asumieron tareas
+diarias de limpieza, lubricación e inspección con estándares visuales. El área de mantenimiento
+reorganizó su plan preventivo priorizando los componentes con mayor historial de fallas: resistencias
+de cañón, bombas hidráulicas y sistemas de expulsión.
+6.3 Gestión diaria de paradas
+Se reemplazó el registro manual de fin de turno por un registro en tablet en cada máquina, con una lista
+cerrada de 24 causas de parada. Cada mañana, el jefe de producción, los supervisores de turno y
+mantenimiento revisan en 15 minutos las paradas del día anterior y asignan acciones. Esta práctica fue
+la base para identificar y eliminar las microparadas por atascos de alimentación.
+6.4 Mejoras en alimentación de material
+Se instalaron tolvas con sensores de nivel y se modificó la secuencia de secado de resina, lo que
+redujo de forma importante los atascos que generaban microparadas de uno a tres minutos.
+7. Resultados
+Todos los resultados corresponden exclusivamente a la Línea 1 de inyección. La línea base es el
+promedio de las semanas 2 a 4 del proyecto (julio de 2025) y el resultado es el promedio de las
+semanas 20 a 23 (noviembre y diciembre de 2025).
+7.1 OEE y sus componentes
+Componente (Línea 1)
+Línea base
+Resultado
+Variación
+Disponibilidad
+72%
+82%
++10 pp
+Rendimiento
+86%
+91%
++5 pp
+Calidad
+94%
+95%
++1 pp
+OEE
+58%
+71%
++13 pp
+OEE = Disponibilidad × Rendimiento × Calidad. Fuente: registro de paradas en tablet y sistema de producción del cliente.
+7.2 Otros indicadores
+Indicador (Línea 1)
+Línea base
+Meta
+Resultado
+Variación
+Tiempo promedio de cambio de
+formato
+95 min
+≤ 48 min
+38 min
+-60%
+Paradas no programadas
+64 h/mes
+≤ 38 h/mes
+31 h/mes
+-52%
+Tasa de desperdicio (scrap)
+6,0%
+sin meta
+5,0%
+-1 pp
+Se cumplieron los cuatro objetivos del proyecto. El sistema de gestión diaria de paradas quedó
+operando de forma autónoma por el equipo de planta desde la semana 21, sin participación de los
+consultores en las reuniones diarias.
+8. Lecciones aprendidas
+• La resistencia al cambio se concentró en los mandos medios. Los supervisores de turno veían
+el registro detallado de paradas como un mecanismo de control sobre su desempeño. La situación
+cambió cuando se les dio la responsabilidad de conducir la reunión diaria y de proponer las
+acciones, en lugar de solo reportar.
+PROCESA CONSULTORES
+| PC-2025-027 · Plásticos del Pacífico  ·  Documento de uso interno
+Página 4
+• Sin datos confiables no hay mejora sostenible. El registro manual subestimaba las paradas en
+cerca de un 40%. Invertir las primeras semanas en medir bien evitó atacar causas equivocadas.
+• SMED genera resultados rápidos y visibles. Empezar por los cambios de formato permitió
+mostrar resultados en el primer mes de implementación y ganar credibilidad en planta.
+9. Recomendaciones y próximos pasos
+• Replicar el modelo de gestión diaria y mantenimiento autónomo en la Línea 2 una vez concluido el
+reemplazo de las sopladoras, previsto para el primer semestre de 2026.
+• Revisar la programación de producción para agrupar pedidos por molde y reducir el número de
+cambios de formato por semana.
+• Evaluar la conexión automática de las inyectoras al sistema de registro para eliminar la digitación
+manual de paradas.
+• Realizar una auditoría de sostenibilidad a los seis meses del cierre.
+Anexo A. Principales causas de parada en la línea base (Línea 1)
+Causa
+Horas/mes (línea base)
+% del total
+Cambios de formato
+38
+31%
+Fallas mecánicas e hidráulicas
+34
+28%
+Microparadas por atascos de alimentación
+21
+17%
+Falta de material
+12
+10%
+Ajustes de calidad
+10
+8%
+Otras
+7
+6%
+Nota: las paradas por cambios de formato son programadas y no forman parte del indicador de paradas no programadas
+de la sección 7.2.

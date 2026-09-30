@@ -1,0 +1,141 @@
+PROCESA CONSULTORES
+| PC-2026-006 · Supermercados La Canasta  ·  Documento de uso interno
+Página 1
+INFORME DE CIERRE DE PROYECTO
+Optimización del proceso de reposición de
+inventario en tiendas
+Supermercados La Canasta Cía. Ltda.
+Código de proyecto
+PC-2026-006
+Cliente
+Supermercados La Canasta Cía. Ltda., cadena de 14 supermercados
+en Pichincha, Imbabura y Cotopaxi
+Sector
+Retail – supermercados
+Periodo de ejecución
+2 de marzo de 2026 al 21 de agosto de 2026 (25 semanas)
+Gerente de proyecto
+Ing. Daniela Cevallos
+Equipo consultor
+1 gerente, 1 consultor senior en cadena de suministro, 1 consultor, 1
+analista de datos
+Contraparte del cliente
+Gerencia de Operaciones y Jefatura de Compras
+Estado
+Cerrado con pendientes – aceptado por el cliente el 28 de agosto de
+2026
+1. Resumen ejecutivo
+La Canasta registraba altos niveles de productos agotados en percha en sus categorías de mayor
+venta, al mismo tiempo que mantenía inventario excesivo en bodegas de tienda. La reposición
+dependía del criterio de cada administrador y las órdenes a proveedores se generaban manualmente
+en hojas de cálculo.
+El proyecto implementó una clasificación ABC de productos, parámetros de reposición por punto de
+pedido para las categorías A y B, y un proceso semanal de planificación de demanda. Como resultado,
+el quiebre de stock en productos de categoría A bajó de 9,5% a 4,8% y la merma de perecibles se
+redujo en 0,7 puntos porcentuales. El objetivo de integrar automáticamente las órdenes de compra con
+los principales proveedores no se cumplió y fue trasladado a una segunda fase.
+2. Contexto
+La cadena maneja aproximadamente 11.500 códigos de producto activos. Tal como se detalla en el
+Informe de Diagnóstico entregado en abril de 2026, el 62% de los quiebres de stock se originaba en
+tienda y no en el centro de distribución, y la precisión del inventario en sistema era inferior al 80% en
+varios locales. Las conclusiones completas del diagnóstico, incluido el análisis por local y por
+proveedor, se encuentran en ese documento y no se reproducen en el presente informe.
+PROCESA CONSULTORES
+| PC-2026-006 · Supermercados La Canasta  ·  Documento de uso interno
+Página 2
+3. Objetivos
+N.º
+Objetivo
+Meta
+1
+Reducir el quiebre de stock en productos de categoría A
+≤ 5%
+2
+Reducir los días de inventario en tienda
+≤ 30 días
+3
+Integrar automáticamente las órdenes de compra con los tres
+principales proveedores
+Integración operativa al cierre
+4
+Reducir la merma de productos perecibles
+Reducción de al menos 0,5 pp
+4. Alcance
+El proyecto se ejecutó con un piloto en 3 locales (Quito norte, Cumbayá e Ibarra) entre abril y mayo, y
+posteriormente se desplegó en los 14 locales. El centro de distribución quedó fuera del alcance, salvo
+en lo referente a los tiempos de despacho hacia tiendas.
+5. Metodología
+Se combinaron herramientas de gestión de la cadena de suministro con un enfoque de mejora de
+procesos:
+• Clasificación ABC de los productos según su contribución a las ventas.
+• Cálculo de punto de pedido y stock de seguridad por producto y por local para las categorías A y B,
+con base en 52 semanas de historial de ventas.
+• Proceso semanal de planificación de demanda entre Compras, Operaciones y Comercial, que
+incorpora promociones y temporadas.
+• Conteos cíclicos semanales para mejorar la precisión del inventario en sistema.
+• Especificación funcional para el intercambio electrónico de órdenes de compra con proveedores.
+6. Resultados
+Línea base: promedio de enero y febrero de 2026. Resultado: promedio de julio y agosto de 2026, con
+el nuevo modelo operando en los 14 locales.
+Indicador
+Línea base
+Meta
+Resultado
+Estado
+Quiebre de stock, categoría A
+9,5%
+≤ 5%
+4,8%
+Cumplido
+Días de inventario en tienda
+38 días
+≤ 30 días
+31 días
+Parcialmente
+cumplido
+Integración de órdenes con
+proveedores
+0 de 3
+3 de 3
+0 de 3
+No cumplido
+Merma de perecibles
+4,1%
+reducción ≥ 0,5
+pp
+3,4%
+Cumplido
+Precisión de inventario en sistema
+78%
+sin meta
+93%
+–
+6.1 Sobre la integración con proveedores
+Se completaron la especificación funcional y las pruebas de formato con los tres proveedores. Sin
+embargo, el ERP del cliente requiere una actualización de versión para habilitar el módulo de
+intercambio electrónico, que el proveedor del ERP programó para noviembre de 2026. Adicionalmente,
+uno de los tres proveedores no cuenta todavía con la capacidad técnica para recibir órdenes
+PROCESA CONSULTORES
+| PC-2026-006 · Supermercados La Canasta  ·  Documento de uso interno
+Página 3
+electrónicas. De común acuerdo con el cliente, este objetivo se trasladó a una segunda fase, cuya
+propuesta se presentará una vez confirmada la fecha de actualización del ERP.
+6.2 Sobre los días de inventario
+La reducción fue de 7 días, un día por encima de la meta. La diferencia se explica principalmente por la
+categoría de licores, donde el cliente decidió mantener inventarios altos por la temporada de fin de año.
+Excluyendo esa categoría, los días de inventario serían de 29.
+7. Lecciones aprendidas
+• Los datos maestros son el cimiento. Cerca del 15% de los códigos tenía unidades de medida o
+factores de empaque incorrectos, lo que distorsionaba los cálculos de reposición. Su depuración
+tomó tres semanas no previstas en el plan.
+• Las dependencias de terceros deben gestionarse desde el inicio. La integración con
+proveedores dependía de la versión del ERP y de la capacidad técnica de los propios proveedores;
+ambos riesgos debieron identificarse y validarse en el diagnóstico.
+• El administrador de tienda es clave. Los locales cuyos administradores participaron en el diseño
+de los parámetros adoptaron el modelo más rápido y con menos ajustes manuales.
+8. Recomendaciones y próximos pasos
+• Ejecutar la segunda fase de integración electrónica de órdenes de compra tras la actualización del
+ERP.
+• Extender los parámetros de reposición a los productos de categoría C con mayor rotación.
+• Mantener los conteos cíclicos semanales, ya que la precisión de inventario es la base del modelo.
+• Revisar los parámetros de reposición de forma trimestral y antes de cada temporada alta.

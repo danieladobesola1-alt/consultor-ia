@@ -1,0 +1,34 @@
+{
+    "codigo_proyecto": "PC-2025-027",
+    "nombre_proyecto": "Mejora de la Efectividad Global de los Equipos (OEE) en la planta de Durán",
+    "empresa": "Plásticos del Pacífico S.A.",
+    "sector": "Manufactura – plásticos y envases",
+    "objetivo_general": "No especificado en el informe",
+    "problema_identificado": "Plásticos del Pacífico necesitaba aumentar su capacidad productiva para atender contratos nuevos con dos embotelladoras sin invertir en una máquina adicional. El proyecto se enfocó en recuperar capacidad oculta en la Línea 1 de inyección, que concentra el 60% del volumen de la planta y presentaba el OEE más bajo.",
+    "resultados_principales": [
+        "El OEE de la Línea 1 pasó de 58% a 71%.",
+        "La Disponibilidad de la Línea 1 pasó de 72% a 82%.",
+        "El Rendimiento de la Línea 1 pasó de 86% a 91%.",
+        "La Calidad de la Línea 1 pasó de 94% a 95%.",
+        "El tiempo promedio de cambio de formato se redujo a 38 min (-60%).",
+        "Las paradas no programadas se redujeron a 31 h/mes (-52%).",
+        "La tasa de desperdicio (scrap) se redujo a 5,0% (-1 pp)."
+    ],
+    "indicadores": [
+        "OEE: Línea base 58%, Resultado 71%, Variación +13 pp",
+        "Disponibilidad: Línea base 72%, Resultado 82%, Variación +10 pp",
+        "Rendimiento: Línea base 86%, Resultado 91%, Variación +5 pp",
+        "Calidad: Línea base 94%, Resultado 95%, Variación +1 pp",
+        "Tiempo promedio de cambio de formato: Línea base 95 min, Meta <= 48 min, Resultado 38 min, Variación -60%",
+        "Paradas no programadas: Línea base 64 h/mes, Meta <= 38 h/mes, Resultado 31 h/mes, Variación -52%",
+        "Tasa de desperdicio (scrap): Línea base 6,0%, Meta sin meta, Resultado 5,0%, Variación -1 pp"
+    ],
+    "objetivos_pendientes": [
+        "Replicar el modelo de gestión diaria y mantenimiento autónomo en la Línea 2 una vez concluido el reemplazo de las sopladoras, previsto para el primer semestre de 2026.",
+        "Revisar la programación de producción para agrupar pedidos por molde y reducir el número de cambios de formato por semana.",
+        "Evaluar la conexión automática de las inyectoras al sistema de registro para eliminar la digitación manual de paradas.",
+        "Realizar una auditoría de sostenibilidad a los seis meses del cierre."
+    ],
+    "conclusiones": "Se cumplieron los cuatro objetivos del proyecto. El sistema de gestión diaria de paradas quedó operando de forma autónoma por el equipo de planta desde la semana 21, sin participación de los consultores en las reuniones diarias.",
+    "fuente": "INFORME DE CIERRE DE PROYECTO"
+}

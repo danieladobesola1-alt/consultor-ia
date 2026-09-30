@@ -1,0 +1,137 @@
+PROCESA CONSULTORES
+| PC-2025-014 · Cooperativa Horizonte Andino  ·  Documento de uso interno
+Página 1
+INFORME DE CIERRE DE PROYECTO
+Optimización del proceso de aprobación de
+créditos de consumo y microcrédito
+Cooperativa de Ahorro y Crédito Horizonte Andino Ltda.
+Código de proyecto
+PC-2025-014
+Cliente
+Cooperativa de Ahorro y Crédito Horizonte Andino Ltda. (segmento 1,
+22 agencias en Sierra centro)
+Sector
+Servicios financieros – cooperativas de ahorro y crédito
+Periodo de ejecución
+3 de febrero de 2025 al 27 de junio de 2025 (21 semanas)
+Gerente de proyecto
+Ing. Daniela Cevallos
+Equipo consultor
+1 gerente, 2 consultores senior, 1 analista de datos
+Contraparte del cliente
+Gerencia de Negocios y Jefatura de Operaciones de Crédito
+Estado
+Cerrado – aceptado por el cliente el 4 de julio de 2025
+1. Resumen ejecutivo
+Horizonte Andino enfrentaba tiempos de aprobación de crédito muy superiores a los de su competencia
+directa, lo que se traducía en pérdida de socios hacia bancos y fintechs con respuesta en 48 horas. El
+proyecto rediseñó el flujo completo de originación, desde la recepción de la solicitud en agencia hasta
+el desembolso, eliminando validaciones duplicadas, automatizando la consulta al buró de crédito y
+estableciendo un esquema de aprobación por niveles de riesgo.
+Al cierre, el tiempo promedio de aprobación bajó de 12 a 5 días hábiles y la productividad de los
+analistas de crédito aumentó 46%. Se cumplieron cuatro de los cinco indicadores meta; la tasa de
+abandono de solicitudes mejoró de forma importante pero quedó un punto porcentual por encima de la
+meta.
+2. Contexto y objetivos
+La cooperativa coloca en promedio 1.900 operaciones de crédito de consumo y microcrédito al mes. El
+diagnóstico inicial evidenció que una solicitud pasaba por 9 manos distintas, que la información del
+socio se digitaba tres veces en sistemas diferentes y que el 34% de las solicitudes regresaba a la
+agencia por documentación incompleta.
+Objetivos acordados con el cliente:
+• Reducir el tiempo promedio de aprobación a 6 días hábiles o menos.
+PROCESA CONSULTORES
+| PC-2025-014 · Cooperativa Horizonte Andino  ·  Documento de uso interno
+Página 2
+• Reducir las solicitudes con reproceso por debajo del 15%.
+• Incrementar la productividad de los analistas de crédito en al menos 30%.
+• Mejorar la satisfacción de los socios con el proceso de crédito a 4,0 sobre 5.
+• Reducir la tasa de abandono de solicitudes al 10%.
+3. Alcance
+El proyecto cubrió los productos de crédito de consumo y microcrédito en las 22 agencias. Quedaron
+fuera del alcance el crédito hipotecario y el crédito corporativo, que siguen un proceso de comité
+distinto. La implementación tecnológica de la consulta automática al buró fue realizada por el área de TI
+del cliente, con acompañamiento funcional del equipo consultor.
+4. Metodología
+Se aplicó un enfoque Lean en cuatro fases: diagnóstico con mapeo de flujo de valor (VSM) del estado
+actual, diseño del estado futuro, piloto en 4 agencias durante 5 semanas y despliegue escalonado al
+resto de la red. Las principales iniciativas implementadas fueron:
+• Checklist digital de documentación en agencia, que impide enviar solicitudes incompletas.
+• Consulta automática al buró de crédito integrada al sistema de originación.
+• Matriz de aprobación por niveles de riesgo: las solicitudes de bajo riesgo y monto menor a USD
+5.000 se aprueban en agencia sin pasar por la oficina matriz.
+• Tablero diario de solicitudes en curso para los jefes de agencia.
+5. Resultados
+La siguiente tabla resume los indicadores del proyecto. La línea base corresponde al promedio de
+octubre a diciembre de 2024; el resultado corresponde al promedio de mayo y junio de 2025, con el
+nuevo proceso operando en toda la red.
+Indicador
+Unidad
+Línea
+base
+Meta
+Resultado
+Variación
+¿Cumple
+meta?
+Tiempo promedio de
+aprobación
+días hábiles
+12
+≤ 6
+5
+-58%
+Sí
+Solicitudes con
+reproceso
+% del total
+34%
+< 15%
+12%
+-22 pp
+Sí
+Productividad de
+analistas
+solicitudes/anali
+sta/mes
+85
+≥ 110
+124
++46%
+Sí
+Satisfacción de socios
+escala 1 a 5
+3,2
+≥ 4,0
+4,1
++0,9
+Sí
+Tasa de abandono de
+solicitudes
+% del total
+18%
+≤ 10%
+11%
+-7 pp
+No
+pp: puntos porcentuales. Fuente: sistema de originación del cliente y encuesta a 640 socios.
+Adicionalmente, el cliente reportó un aumento de 9% en el monto colocado en consumo y microcrédito
+entre el primer y segundo trimestre de 2025. Este resultado no se incluye como indicador del proyecto
+porque también responde a una campaña comercial que se ejecutó en paralelo.
+6. Lecciones aprendidas
+PROCESA CONSULTORES
+| PC-2025-014 · Cooperativa Horizonte Andino  ·  Documento de uso interno
+Página 3
+• La resistencia al cambio se concentró en los mandos medios. Los jefes de agencia percibían la
+aprobación descentralizada como una pérdida de control. Incorporarlos como dueños del tablero
+diario, y no solo como receptores del cambio, fue determinante para el despliegue.
+• El piloto debe incluir agencias difíciles. Las primeras dos agencias piloto eran las de mejor
+desempeño y los resultados iniciales sobreestimaron el impacto. Se agregaron dos agencias rurales
+para validar el diseño.
+• La calidad de los datos del core bancario condiciona la medición. Fue necesario depurar
+fechas de estado de las solicitudes antes de poder construir la línea base.
+7. Recomendaciones y próximos pasos
+• Profundizar en las causas del abandono de solicitudes, principalmente en microcrédito rural, donde
+se concentra el 70% de los casos.
+• Evaluar la originación digital de créditos de bajo monto a través de la aplicación móvil.
+• Mantener la revisión mensual de indicadores en el comité de negocios durante al menos seis
+meses.
